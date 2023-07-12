@@ -1,0 +1,28 @@
+.box{
+    border: 5px solid brown;
+    background-color: lightcoral;
+    padding:70px;
+    margin: 60px;
+    text-align: center;
+    border-radius:40px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading{
+    text-transform: uppercase;
+    
+}
+.sadu_img{
+    width:270px;
+    height:270px;
+    border-radius: 50%;
+}
+.btn{
+    border: none;
+    padding: 12px 32px;
+    border-radius: 16px;
+    font-weight: bolder;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: blue;
+    color: aliceblue;
+}
